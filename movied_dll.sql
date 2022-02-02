@@ -1,0 +1,3 @@
+use movies;
+
+show tables;
